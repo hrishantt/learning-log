@@ -2,4 +2,5 @@
 ffmpeg -i nature.mp4 -vframes 1 nature.jpeg
 ffmpeg -i nature.mp4 -vframes 1 nature.jpg
 ffmpeg -i nature.mp4 -vframes 1 nature.gif
+for the sake of almighty
 
